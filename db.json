@@ -68,7 +68,7 @@
     },
     {
       "type": 2,
-      "title": "Top Category",
+      "title": "Top Category type=2",
       "viewMore": "Top Category 22",
       "widgetData": [
         {
@@ -212,7 +212,7 @@
     },
     {
       "type": 4,
-      "title": "Shop Category",
+      "title": "Shop Category  type=4",
       "viewMore": "Shop Category 44",
       "widgetData": [
         {
@@ -304,7 +304,7 @@
     },
     {
       "type": 5,
-      "title": "Top Items",
+      "title": "Top Items  type=5",
       "viewMore": "Top Items 55",
       "widgetData": [
         {
@@ -443,7 +443,7 @@
     },
     {
       "type": 6,
-      "title": "Recommended Category",
+      "title": "Recommended Category type=6",
       "viewMore": "Recommended Category 66",
       "widgetData": [
         {
@@ -490,7 +490,7 @@
     },
     {
       "type": 6,
-      "title": "Top Category",
+      "title": "Top Category type=6",
       "viewMore": "",
       "widgetData": [
         {
@@ -537,7 +537,7 @@
     },
     {
       "type": 7,
-      "title": "Recommended Category",
+      "title": "Recommended Category type=7",
       "viewMore": "Recommended Category 77",
       "widgetData": [
         {
@@ -584,7 +584,7 @@
     },
     {
       "type": 7,
-      "title": "Top Category",
+      "title": "Top Category type=7",
       "viewMore": "",
       "widgetData": [
         {
@@ -631,8 +631,8 @@
     },
     {
       "type": 8,
-      "title": "Recommended Category",
-      "viewMore": "Recommended Category 88",
+      "title": "Recommended Category type=8",
+      "viewMore": "Recommended",
       "widgetData": [
         {
           "deeplink": "items/2767",
@@ -678,7 +678,7 @@
     },
     {
       "type": 8,
-      "title": "Category",
+      "title": "Category type=8",
       "viewMore": "",
       "widgetData": [
         {
@@ -725,7 +725,7 @@
     },
     {
       "type": 9,
-      "title": "Reipes",
+      "title": "Reipes type=9",
       "viewMore": "",
       "widgetData": [
         {
