@@ -444,7 +444,7 @@
     {
       "type": 6,
       "title": "Recommended Category type=6",
-      "viewMore": "Recommended Category 66",
+      "viewMore": "Reco66",
       "widgetData": [
         {
           "deeplink": "items/2767",
@@ -538,7 +538,7 @@
     {
       "type": 7,
       "title": "Recommended Category type=7",
-      "viewMore": "Recommended",
+      "viewMore": "type=7",
       "widgetData": [
         {
           "deeplink": "items/2767",
