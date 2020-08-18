@@ -2,6 +2,43 @@
   "result": "1",
   "msg": "",
   "data": [
+    {
+      "type": 55,
+      "title": "Banner",
+      "sectionData": [
+        {
+          "deeplink": "items/3268",
+          "name": "Profile",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Banner-Katrina-Sweets-app.jpg"
+        },
+         {
+          "deeplink": "items/3268",
+          "name": "Address",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Banner-Katrina-Sweets-app.jpg"
+        },
+         {
+          "deeplink": "items/3268",
+          "name": "Orders",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Banner-Katrina-Sweets-app.jpg"
+        },
+         {
+          "deeplink": "items/3268",
+          "name": "Buy Again",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Banner-Katrina-Sweets-app.jpg"
+        },
+         {
+          "deeplink": "items/3268",
+          "name": "Store Receipts",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Banner-Katrina-Sweets-app.jpg"
+        },
+         {
+          "deeplink": "items/3268",
+          "name": "Shopping List",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Banner-Katrina-Sweets-app.jpg"
+        }
+        
+      ]
+     },
      {
       "type": 1,
       "title": "FirstTitle",
