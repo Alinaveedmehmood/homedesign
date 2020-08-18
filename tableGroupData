@@ -4,7 +4,7 @@
   "data": [
      {
       "type": 1,
-      "title": "",
+      "title": "FirstTitle",
       "sectionData": [
         {
           "deeplink": "items/3268",
@@ -42,7 +42,7 @@
      
       {
       "type": 2,
-      "title": "",
+      "title": "SecondTitle",
       "sectionData": [
         {
           "deeplink": "items/3268",
@@ -54,7 +54,7 @@
      
       {
       "type": 3,
-      "title": "",
+      "title": "Third",
       "sectionData": [
         {
           "deeplink": "items/3268",
@@ -71,7 +71,7 @@
      
       {
       "type": 4,
-      "title": "",
+      "title": "four",
       "sectionData": [
         {
           "deeplink": "items/3268",
@@ -83,7 +83,7 @@
      
       {
       "type": 5,
-      "title": "",
+      "title": "Five",
       "sectionData": [
         {
           "deeplink": "items/3268",
