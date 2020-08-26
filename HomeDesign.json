@@ -26,7 +26,110 @@
         }
       ]
     },
-    
+    {
+      "type": 3,
+      "title": "",
+      "viewMore": "",
+      "widgetData": [
+        {
+          "deeplink": "items/3268",
+          "name": " ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Banner-Katrina-Sweets-app.jpg"
+        },
+        {
+          "deeplink": "items/3264",
+          "name": " ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/mobile-banner.jpg"
+        },
+        {
+          "deeplink": "items/3263",
+          "name": " ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/New-Arrival-online-dubai.jpg"
+        },
+        {
+          "deeplink": "items/3261",
+          "name": " ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Outdoors-_-Camping.jpg"
+        },
+        {
+          "deeplink": "items/3068",
+          "name": " ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/exclusive-in-union-coop.jpg"
+        },
+        {
+          "deeplink": "items/3067",
+          "name": " ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Best-Price.jpg"
+        },
+        {
+          "deeplink": "category/3065",
+          "name": " ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Screenshot_20191221-152133_Gallery.jpg"
+        },
+        {
+          "deeplink": "items/3010",
+          "name": " ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/automobile.jpg"
+        },
+        {
+          "deeplink": "category/2784",
+          "name": " ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/20191219_193105_1.jpg"
+        },
+        {
+          "deeplink": "category/2778",
+          "name": " ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Fashion.jpg"
+        },
+        {
+          "deeplink": "category/2777",
+          "name": " ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Kitchen.jpg"
+        },
+        {
+          "deeplink": "category/2776",
+          "name": " ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Sports-_-Fitness.jpg"
+        },
+        {
+          "deeplink": "items/2775",
+          "name": " ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Office-Supplies-_-Stationery.jpg"
+        },
+        {
+          "deeplink": "category/2769",
+          "name": " ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Health-_-Beauty.jpg"
+        },
+        {
+          "deeplink": "category/2764",
+          "name": " ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Pet-Shop.jpg"
+        },
+        {
+          "deeplink": "items/77",
+          "name": " ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Luggage-_-Trolley.jpg"
+        },
+        {
+          "deeplink": "items/76",
+          "name": " ",
+          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/kids-toys-33.jpg"
+        }
+      ]
+    },
+    {
+      "type": 18,
+      "title": "",
+      "viewMore": "",
+      "widgetData": [
+        {
+          "name": "",
+          "deeplink": "",
+          "url": "/news/latest"
+        }
+      ]
+    },
     {
       "type": 17,
       "title": "",
@@ -308,110 +411,7 @@
         }
       ]
     },
-    {
-      "type": 18,
-      "title": "",
-      "viewMore": "",
-      "widgetData": [
-        {
-          "name": "",
-          "deeplink": "",
-          "url": "/news/latest"
-        }
-      ]
-    },
-    {
-      "type": 3,
-      "title": "",
-      "viewMore": "",
-      "widgetData": [
-        {
-          "deeplink": "items/3268",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Banner-Katrina-Sweets-app.jpg"
-        },
-        {
-          "deeplink": "items/3264",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/mobile-banner.jpg"
-        },
-        {
-          "deeplink": "items/3263",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/New-Arrival-online-dubai.jpg"
-        },
-        {
-          "deeplink": "items/3261",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Outdoors-_-Camping.jpg"
-        },
-        {
-          "deeplink": "items/3068",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/exclusive-in-union-coop.jpg"
-        },
-        {
-          "deeplink": "items/3067",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Best-Price.jpg"
-        },
-        {
-          "deeplink": "category/3065",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Screenshot_20191221-152133_Gallery.jpg"
-        },
-        {
-          "deeplink": "items/3010",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/automobile.jpg"
-        },
-        {
-          "deeplink": "category/2784",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/20191219_193105_1.jpg"
-        },
-        {
-          "deeplink": "category/2778",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Fashion.jpg"
-        },
-        {
-          "deeplink": "category/2777",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Kitchen.jpg"
-        },
-        {
-          "deeplink": "category/2776",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Sports-_-Fitness.jpg"
-        },
-        {
-          "deeplink": "items/2775",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Office-Supplies-_-Stationery.jpg"
-        },
-        {
-          "deeplink": "category/2769",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Health-_-Beauty.jpg"
-        },
-        {
-          "deeplink": "category/2764",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Pet-Shop.jpg"
-        },
-        {
-          "deeplink": "items/77",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/Luggage-_-Trolley.jpg"
-        },
-        {
-          "deeplink": "items/76",
-          "name": " ",
-          "image": "https:\/\/s3-eu-west-1.amazonaws.com\/unioncoop\/catalog\/category\/kids-toys-33.jpg"
-        }
-      ]
-    },
+    
     {
       "type": 1,
       "title": "",
