@@ -1,6 +1,6 @@
 {
-  "result": "1",
-  "msg": "",
+  "code": "1",
+  "message": "",
   "data": [
     {
       "type": 15,
@@ -26,18 +26,7 @@
         }
       ]
     },
-    {
-      "type": 18,
-      "title": "",
-      "viewMore": "",
-      "widgetData": [
-        {
-          "name": "",
-          "deeplink": "",
-          "url": "/news/latest"
-        }
-      ]
-    },
+    
     {
       "type": 17,
       "title": "",
@@ -316,6 +305,18 @@
               "available_stock": true
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": 18,
+      "title": "",
+      "viewMore": "",
+      "widgetData": [
+        {
+          "name": "",
+          "deeplink": "",
+          "url": "/news/latest"
         }
       ]
     },
