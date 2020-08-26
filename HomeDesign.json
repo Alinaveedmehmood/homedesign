@@ -54,6 +54,18 @@
       ]
     },
     {
+      "type": 18,
+      "title": "",
+      "viewMore": "",
+      "widgetData": [
+        {
+          "name": "",
+          "deeplink": "",
+          "url": "/news/latest"
+        }
+      ]
+    },
+    {
       "type": 3,
       "title": "",
       "viewMore": "",
@@ -145,18 +157,7 @@
         }
       ]
     },
-    {
-      "type": 18,
-      "title": "",
-      "viewMore": "",
-      "widgetData": [
-        {
-          "name": "",
-          "deeplink": "",
-          "url": "/news/latest"
-        }
-      ]
-    },
+    
     {
       "type": 17,
       "title": "",
