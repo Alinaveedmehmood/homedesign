@@ -25,6 +25,7 @@
     },
     {
       "type": 2,
+      "title": this is test"",
       "widgetData": [
         {
           "deeplink": "address_list",
